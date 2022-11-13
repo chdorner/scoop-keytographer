@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-alpha.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/chdorner/keytographer/releases/download/v0.1.0-alpha.1/keytographer_0.1.0-alpha.1_Windows_i386.tar.gz",
+            "bin": [
+                "keytographer.exe"
+            ],
+            "hash": "ddcdcbb64e8d6a641225905c65796cc743a85d4c679e1a5080e851d4caf8f08d"
+        },
+        "64bit": {
+            "url": "https://github.com/chdorner/keytographer/releases/download/v0.1.0-alpha.1/keytographer_0.1.0-alpha.1_Windows_x86_64.tar.gz",
+            "bin": [
+                "keytographer.exe"
+            ],
+            "hash": "54e59fdb090b9b881f76a2507c22b82f02365f9441dda67327ac05d4783e0b25"
+        }
+    },
+    "homepage": "https://github.com/chdorner/keytographer",
+    "license": "MIT",
+    "description": "Beautiful keymap visualizations"
+}
